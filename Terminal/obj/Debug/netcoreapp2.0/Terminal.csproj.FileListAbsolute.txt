@@ -1,0 +1,12 @@
+c:\Users\Fabio Freller\Documents\Programar\ProjetoEscola\Terminal\bin\Debug\netcoreapp2.0\Terminal.deps.json
+c:\Users\Fabio Freller\Documents\Programar\ProjetoEscola\Terminal\bin\Debug\netcoreapp2.0\Terminal.runtimeconfig.json
+c:\Users\Fabio Freller\Documents\Programar\ProjetoEscola\Terminal\bin\Debug\netcoreapp2.0\Terminal.runtimeconfig.dev.json
+c:\Users\Fabio Freller\Documents\Programar\ProjetoEscola\Terminal\bin\Debug\netcoreapp2.0\Terminal.dll
+c:\Users\Fabio Freller\Documents\Programar\ProjetoEscola\Terminal\bin\Debug\netcoreapp2.0\Terminal.pdb
+c:\Users\Fabio Freller\Documents\Programar\ProjetoEscola\Terminal\bin\Debug\netcoreapp2.0\Essencial.dll
+c:\Users\Fabio Freller\Documents\Programar\ProjetoEscola\Terminal\bin\Debug\netcoreapp2.0\Essencial.pdb
+c:\Users\Fabio Freller\Documents\Programar\ProjetoEscola\Terminal\obj\Debug\netcoreapp2.0\Terminal.csproj.CoreCompileInputs.cache
+c:\Users\Fabio Freller\Documents\Programar\ProjetoEscola\Terminal\obj\Debug\netcoreapp2.0\Terminal.AssemblyInfoInputs.cache
+c:\Users\Fabio Freller\Documents\Programar\ProjetoEscola\Terminal\obj\Debug\netcoreapp2.0\Terminal.AssemblyInfo.cs
+c:\Users\Fabio Freller\Documents\Programar\ProjetoEscola\Terminal\obj\Debug\netcoreapp2.0\Terminal.dll
+c:\Users\Fabio Freller\Documents\Programar\ProjetoEscola\Terminal\obj\Debug\netcoreapp2.0\Terminal.pdb

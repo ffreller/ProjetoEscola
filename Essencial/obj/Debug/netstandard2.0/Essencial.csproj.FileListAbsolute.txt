@@ -1,0 +1,8 @@
+c:\Users\Fabio Freller\Documents\Programar\ProjetoEscola\Essencial\bin\Debug\netstandard2.0\Essencial.deps.json
+c:\Users\Fabio Freller\Documents\Programar\ProjetoEscola\Essencial\bin\Debug\netstandard2.0\Essencial.dll
+c:\Users\Fabio Freller\Documents\Programar\ProjetoEscola\Essencial\bin\Debug\netstandard2.0\Essencial.pdb
+c:\Users\Fabio Freller\Documents\Programar\ProjetoEscola\Essencial\obj\Debug\netstandard2.0\Essencial.csproj.CoreCompileInputs.cache
+c:\Users\Fabio Freller\Documents\Programar\ProjetoEscola\Essencial\obj\Debug\netstandard2.0\Essencial.AssemblyInfoInputs.cache
+c:\Users\Fabio Freller\Documents\Programar\ProjetoEscola\Essencial\obj\Debug\netstandard2.0\Essencial.AssemblyInfo.cs
+c:\Users\Fabio Freller\Documents\Programar\ProjetoEscola\Essencial\obj\Debug\netstandard2.0\Essencial.dll
+c:\Users\Fabio Freller\Documents\Programar\ProjetoEscola\Essencial\obj\Debug\netstandard2.0\Essencial.pdb
